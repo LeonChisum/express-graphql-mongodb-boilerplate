@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeonChisum/express-graphql-mongodb-boilerplate.git"
+    "url": "git+https://github.com/LeonChisum/orlando-plus-security-be.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LeonChisum/express-graphql-mongodb-boilerplate/issues"
+    "url": "https://github.com/LeonChisum/orlando-plus-security-be/issues"
   },
-  "homepage": "https://github.com/LeonChisum/express-graphql-mongodb-boilerplate#readme",
+  "homepage": "https://github.com/LeonChisum/orlando-plus-security-be#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.9.14"
